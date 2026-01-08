@@ -1,4 +1,4 @@
-# Lab 1 - Notes
+# Lab 2 - Notes
 
 ## Task 3 - Intuition and Formulas
 
