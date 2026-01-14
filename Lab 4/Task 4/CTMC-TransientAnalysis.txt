@@ -1,0 +1,4 @@
+Uniformization
+Time	2ServersUp	1ServerUp	BothDown	Up	Down	
+0	1	0	0	1	0	
+1,600.1	0.94618091	0.01555319	0.0382659	0.98444681	0.0382659	

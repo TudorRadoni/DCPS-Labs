@@ -1,0 +1,4 @@
+GTH
+2ServersUp	0.0	
+1ServerUp	0.0	
+BothDown	1.0	
